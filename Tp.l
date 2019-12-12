@@ -45,6 +45,11 @@ id      {let}({chiffre}|{let})*
 "alors"   return(ALORS);
 "sinon"   return(SINON);
 "fsi"     return(FSI);
+"tant que" return(TANTQUE);
+"fait"     return(FAIR);
+"repeter" return(REPETER);
+"jusqu'a" return(JUSQU'A);
+"fintanque" return"FINTANTUE"
 "lire"    return(LIRE);
 "ecrire"  return(ECRIRE);
 "pour"    return(POUR);
